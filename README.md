@@ -6,25 +6,23 @@
 -  Simple console-based input/output.
 
 <h2>Project Structure</h2>
-com.mycompany.javacourseexerciseorder
-│
-├── entities
-│   ├── Client.java
-│   ├── Order.java
-│   ├── OrderItem.java
-│   ├── Product.java
-│   └── enums
-│       └── OrderStatus.java
-│
-└── JavaCourseExerciseOrder.java
-
-
 -  Client.java: Represents a client with a name, email, and birth date.
 -  Product.java: Represents a product with a name and price.
 -  Order.java: Represents an order, containing the client, order status, and a list of order items.
 -  OrderItem.java: Represents an item in the order, containing the product, quantity, and price.
 -  OrderStatus.java: Enum to represent the different stages of the order (PENDING_PAYMENT, PROCESSING, SHIPPED, DELIVERED).
 -  JavaCourseExerciseOrder.java: The main class that orchestrates the input/output and business logic.
+
+com.mycompany.javacourseexerciseorder
+|
+|--entities
+|   |--Client.java
+|   |--Order.java
+|   |--OrderItem.java
+|   |--Product.java
+|   |--enums
+|       |-OrderStatus.java
+|--JavaCourseExerciseOrder.java
 
 <h2>Technologies</h2>
 -  Java SE: Core Java for object-oriented programming.
