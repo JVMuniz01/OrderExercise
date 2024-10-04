@@ -1,23 +1,23 @@
 <H1>Java Course Exercise - Order Management</H1>
 <H2>Features</H2>
--  <p>Manage clients with name, email, and birth date.</p>
--  <p>Create and manage orders with multiple items.</p>
--  <p>Track order status using enums (OrderStatus).</p>
--  <p>Simple console-based input/output.</p>
+  <p>Manage clients with name, email, and birth date.</p>
+  <p>Create and manage orders with multiple items.</p>
+  <p>Track order status using enums (OrderStatus).</p>
+  <p>Simple console-based input/output.</p>
 
 <h2>Project Structure</h2>
--  <p></p>Client.java: Represents a client with a name, email, and birth date.
--  <p></p>Product.java: Represents a product with a name and price.
--  <p></p>Order.java: Represents an order, containing the client, order status, and a list of order items.
-- <p></p> OrderItem.java: Represents an item in the order, containing the product, quantity, and price.
--  <p></p>OrderStatus.java: Enum to represent the different stages of the order (PENDING_PAYMENT, PROCESSING, SHIPPED, DELIVERED).
--  <p></p>JavaCourseExerciseOrder.java: The main class that orchestrates the input/output and business logic.
+  <p></p>Client.java: Represents a client with a name, email, and birth date.
+  <p></p>Product.java: Represents a product with a name and price.
+  <p></p>Order.java: Represents an order, containing the client, order status, and a list of order items.
+ <p></p> OrderItem.java: Represents an item in the order, containing the product, quantity, and price.
+  <p></p>OrderStatus.java: Enum to represent the different stages of the order (PENDING_PAYMENT, PROCESSING, SHIPPED, DELIVERED).
+  <p></p>JavaCourseExerciseOrder.java: The main class that orchestrates the input/output and business logic.
 
 <h2>Technologies</h2>
   <p></p>Java SE: Core Java for object-oriented programming.
   <p></p>Java Date and Time API: Used to manage dates and times (SimpleDateFormat).
   <p></p>Collections Framework: To handle lists of items in an order (ArrayList).
- <p></p> Enums: To represent the order status in a type-safe manner.
+  <p></p> Enums: To represent the order status in a type-safe manner.
 
 <h2>Usage</h2>
 <h3>Exemple input</h3>
