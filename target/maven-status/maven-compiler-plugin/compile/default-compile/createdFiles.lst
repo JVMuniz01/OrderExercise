@@ -1,0 +1,6 @@
+com\mycompany\javacourseexerciseorder\JavaCourseExerciseOrder.class
+entities\Order.class
+entities\Product.class
+entities\Client.class
+entities\enums\OrderStatus.class
+entities\OrderItem.class
