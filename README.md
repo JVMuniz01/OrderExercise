@@ -7,26 +7,17 @@
 
 <h2>Project Structure</h2>
 
-com.mycompany.javacourseexerciseorder
-
+<h3>com.mycompany.javacourseexerciseorder
 │
 ├── entities
-
 │   ├── Client.java
-
 │   ├── Order.java
-
 │   ├── OrderItem.java
-
 │   ├── Product.java
-
 │   └── enums
-
 │       └── OrderStatus.java
-
 │
-└── JavaCourseExerciseOrder.java
-
+└── JavaCourseExerciseOrder.java</h3>
 
 -  Client.java: Represents a client with a name, email, and birth date.
 -  Product.java: Represents a product with a name and price.
