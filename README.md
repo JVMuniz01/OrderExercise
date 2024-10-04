@@ -6,7 +6,7 @@
 -  Simple console-based input/output.
 
 <h2>Project Structure</h2>
-com.mycompany.javacourseexerciseorder │ ├── entities │ ├── Client.java │ ├── Order.java │ ├── OrderItem.java │ ├── Product.java │ └── enums │ └── OrderStatus.java │ └── JavaCourseExerciseOrder.java
+## com.mycompany.javacourseexerciseorder │ ├── entities │ ├── Client.java │ ├── Order.java │ ├── OrderItem.java │ ├── Product.java │ └── enums │ └── OrderStatus.java │ └── JavaCourseExerciseOrder.java
 
 -  Client.java: Represents a client with a name, email, and birth date.
 -  Product.java: Represents a product with a name and price.
