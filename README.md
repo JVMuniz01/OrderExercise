@@ -14,10 +14,10 @@
 -  JavaCourseExerciseOrder.java: The main class that orchestrates the input/output and business logic.
 
 <h2>Technologies</h2>
--  Java SE: Core Java for object-oriented programming.
--  Java Date and Time API: Used to manage dates and times (SimpleDateFormat).
--  Collections Framework: To handle lists of items in an order (ArrayList).
--  Enums: To represent the order status in a type-safe manner.
+  Java SE: Core Java for object-oriented programming.
+  Java Date and Time API: Used to manage dates and times (SimpleDateFormat).
+  Collections Framework: To handle lists of items in an order (ArrayList).
+  Enums: To represent the order status in a type-safe manner.
 
 <h2>Usage</h2>
 <h3>Exemple input</h3>
