@@ -13,17 +13,6 @@
 -  OrderStatus.java: Enum to represent the different stages of the order (PENDING_PAYMENT, PROCESSING, SHIPPED, DELIVERED).
 -  JavaCourseExerciseOrder.java: The main class that orchestrates the input/output and business logic.
 
-com.mycompany.javacourseexerciseorder
-|
-|--entities
-|   |--Client.java
-|   |--Order.java
-|   |--OrderItem.java
-|   |--Product.java
-|   |--enums
-|       |-OrderStatus.java
-|--JavaCourseExerciseOrder.java
-
 <h2>Technologies</h2>
 -  Java SE: Core Java for object-oriented programming.
 -  Java Date and Time API: Used to manage dates and times (SimpleDateFormat).
